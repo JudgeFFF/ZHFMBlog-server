@@ -37,6 +37,8 @@ $ npm install
 ```bash
 # development
 $ npm run start
+$ nest start -w web
+$ nest start -w admin
 
 # watch mode
 $ npm run start:dev
